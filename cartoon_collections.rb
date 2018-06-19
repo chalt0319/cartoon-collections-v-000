@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(names)
   names.collect do |element|
-    "#{element}!".upcase
+    "#{element}!".capitalize
   end 
 end
 
