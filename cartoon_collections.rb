@@ -23,5 +23,7 @@ def find_the_cheese(array)
       array.include?(snack)
       return snack 
       end 
+    elsif
+      return nil 
     end 
 end
