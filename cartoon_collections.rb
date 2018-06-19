@@ -23,7 +23,5 @@ def find_the_cheese(array)
       array.include?(snack)
       snack 
       end 
-    elsif
-      nil
     end 
 end
