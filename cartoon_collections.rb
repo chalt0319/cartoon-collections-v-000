@@ -19,11 +19,7 @@ end
 
 def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
-    if array.detect do |snack|
-        snack == cheese_types.any? 
-        snack 
-      end 
-    elsif 
-      nil 
+    array.detect do |snack|
+      
     end 
 end
