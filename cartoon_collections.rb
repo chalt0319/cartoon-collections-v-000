@@ -24,6 +24,6 @@ def find_the_cheese(array)
         snack 
       end 
     elsif 
-      return nil 
+      nil 
     end 
 end
